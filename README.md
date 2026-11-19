@@ -14,5 +14,6 @@ Selected coursework projects in R and Python. Each PDF is the submitted report.
 | [Cycling Demand in Edinburgh (group of three)](05_Cycling_Demand_Group_Project.pdf) | R | Exploratory data analysis and a regression model of daily cycling demand | 86% |
 
 
-## Current work
-Final-year dissertation, supervised by Dr Jordan Richards: *Machine Learning Methods for Tail Regression and Extrapolation*. We're using extreme value theory and machine learning in R and Python to model extreme share-price movements.
+## Current work (2026–27)
+- **Dissertation**, supervised by Dr Jordan Richards: *Machine Learning Methods for Tail Regression and Extrapolation*. We're using extreme value theory and machine learning in R and Python to model extreme share-price movements.
+- **Statistical Case Studies**: two real-world group projects analysing complex data, each with a written report and presentation.
